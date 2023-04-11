@@ -1,2 +1,1 @@
-# TDC
-Official reference site for The Dragon Club
+Hold on, the site isn't even up yet! Come back later 😒
