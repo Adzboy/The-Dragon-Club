@@ -29,7 +29,7 @@ Don't continue to post your form in the studio comments. If you are still not in
 Please don't ask to be a manager, help out and you may be promoted. Inactive managers may be removed to make room for more active managers. We will let people know when we are looking for new managers.
 
 # Our Past
-The Dragon Club was created in late 2021 by [LEMMINGUIN](https://scratch.mit.edu/users/LEMMINGUIN/) for [IcyTheFrostWing11](https://scratch.mit.edu/users/IcyTheFrostWing11/) (later [VineTheNatureWing11](https://scratch.mit.edu/users/VineTheNatureWing11/), not on Scratch anymore). Soon after it's creation it became featured and amassed an astonishing 5000+ studio followers but the goodness was not to last. In 2022, the account was deleted as the owner deleted all their projects and studios. [A backup studio](https://scratch.mit.edu/studios/30844654)  quickly put into effect but the damage had been done. Everything lost. Since then, the studio has bounced back with more than 650+ studio followers (as of April 2023) but has never and likely will never be returned to it's former glory. As of now, I,   [Adzboy](https://scratch.mit.edu/users/Adzboy/) am the current host. And the story continues...
+The Dragon Club was created in late 2021 by [LEMMINGUIN](https://scratch.mit.edu/users/LEMMINGUIN/) for [IcyTheFrostWing11](https://scratch.mit.edu/users/IcyTheFrostWing11/) (later [VineTheNatureWing11](https://scratch.mit.edu/users/VineTheNatureWing11/), not on Scratch anymore). Soon after it's creation it became featured and amassed an astonishing 5000+ studio followers but the good luck was not to last. In 2022, the account was deleted as the owner deleted all their projects and studios. [A backup studio](https://scratch.mit.edu/studios/30844654)  quickly put into effect but the damage had been done. Everything was lost. Since then, the studio has bounced back with more than 650+ studio followers (as of April 2023) but has never and likely will never be returned to it's former glory. As of now, I,   [Adzboy](https://scratch.mit.edu/users/Adzboy/) am the current host. And the story continues...
 
 # Useful Links
 Manager Chat:
@@ -44,4 +44,8 @@ https://scratch.mit.edu/studios/30843140/
 Official Github repository for this website:
 https://github.com/Adzboy/TheDragonClub
 
-Thank you 
+
+# Sign off
+Thank you for reading
+
+Wriiten by: Adzboy, Host of The Dragon Club
