@@ -13,3 +13,14 @@ Here are the rules in a simple, easy to understand format:
 ➸ No Hate
 
 ➸ Have fun!
+
+# How to Join
+Fill out the form below to join:
+
+Note that as of 05/12/22 no user with an account under 2 weeks on Scratch may join this studio (they may still participate however).
+
+
+Username (No @ please)/On a scale of 1-10 how much do you like dragons?/ What dragon related projects will you add?/ Will you follow the rules?/Have you followed the studio? (Not compulsory)/ Codeword in a sentence
+
+A manager doesn't see your form?
+Don't continue to post your form in the studio comments. If you are still not invited, post it on any manager's profile and they should invite you.
