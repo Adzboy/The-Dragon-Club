@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="description" content="Official site for The Dragon Club Scratch studio">
+		<style>
+		body {
+			font-family: arial,helvetica;
+		}
+		hr {
+			opacity: 50%;
+		}
+		</style>
+	</head>
+	<body>
+		<img src="https://github.com/Adzboy/The-Dragon-Club/assets/101983596/735c5b0b-de2f-4dac-a324-503ea751b925" onload="loadContent()">
+		<div id="content"></div>
+		<script>
+		function loadContent() {
+			var str="";
+			str+='<h1>The Dragon Club</h1><hr>';
+			str+='<p>Welcome to the official site for <a href="https://scratch.mit.edu/studios/30844654">The Dragon Club</a>. This will tell you all you need to know about our rules, how to join, as well as some interesting facts about our past.</p>';
+			str+='<h1>The Rules</h1><hr>';
+			str+='<p>Here are the rules in a simple, easy to understand format:</p>';
+			str+='<p>➸ No Advertising</p>';
+			str+='<p>➸ This studio accepts everyone regardless of gender, race, beliefs, religions, etc. Anyone who is rude to someone else for any will be removed from the club and reported. Remember, this studio is about dragons, so try not to start conversations about politics, wars, protests, etc. Keep things dragon related.</p>';
+			str+='<p>➸ No Spam</p><p>➸ No Hate</p><p>➸ Have fun!</p>';
+			str+='<h1>How do I join?</h1><hr>';
+			str+='<p>Fill out the form below to join:<br>Note that as of 05/12/22 no user with an account under 2 weeks on Scratch may join this studio (they may still participate however).<br>Username (No @ please)/On a scale of 1-10 how much do you like dragons?/ What dragon related projects will you add?/ Will you follow the rules?/Have you followed the studio? (Not compulsory)/ Codeword (hidden on this page) in a sentence<br>A manager doesn’t see your form? Don’t continue to post your form in the studio comments. If you are still not invited, post it on any manager’s profile and they should invite you.';
+			str+='<h1>I want to be promoted to manager!</h1><hr>';
+			str+='<p>Please don’t ask to be a manager, help out and you may be promoted. Inactive managers may be removed to make room for more active managers. We will let people know when we are looking for new managers.</p>';
+			str+='<h1>Our History</h1><hr>';
+			str+='<p>The Dragon Club was created in late 2021 by LEMMINGUIN for IcyTheFrostWing11 (later VineTheNatureWing11, not on Scratch anymore). Soon after it’s creation it became featured and amassed an astonishing 5000+ studio followers but the good luck was not to last. In 2022, the account was deleted as the owner deleted all their projects and studios. A backup studio quickly put into effect but the damage had been done. Everything was lost. The codeword is scales. Since then, the studio has bounced back with more than 650+ studio followers (as of April 2023) but has never and likely will never be returned to it’s former glory. As of now, I, Adzboy am the current host. And the story continues…</p>';
+			str+='<h1>Useful links</h1><hr>';
+			str+='<p><a href="https://scratch.mit.edu/studios/30839180/">Manager Chat</a><br><a href="https://scratch.mit.edu/studios/30850600/">Report an issue</a> (No longer in use)<br><a href=https://scratch.mit.edu/studios/30843140/"">Thumbnail submissions</a><br><a href="https://github.com/Adzboy/TheDragonClub">Official Github repository for this website</a></p>';
+			str+='<h1>Signing off</h1><hr>';
+			str+='<p>Thank you for reading<br>Written by: Adzboy, host of the The Dragon Club</p>';
+			
+			content=document.createElement('div');
+            content.id='content2';
+			content.innerHTML=str;
+			document.getElementById('content').appendChild(content);
+		}
+		</script>
+	</body>
+</html>
